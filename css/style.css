@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    width: 100%;
+
+}
+.main-container {
+    width: 100%;
+    height: 1080px;
+    position: relative;
+}
+body {
+    font-family: 'Truculenta', sans-serif;
+}
