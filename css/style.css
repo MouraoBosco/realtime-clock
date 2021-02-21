@@ -8,6 +8,26 @@ html, body {
     height: 1080px;
     position: relative;
 }
-body {
-    font-family: 'Truculenta', sans-serif;
+.background-img {
+    width: 100%;
+    height: auto;
+}
+h1 {
+    width: 100%;
+    margin-top: 15%;
+    position: absolute;
+    font-size:8vw;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family:font-family: 'Truculenta', sans-serif;
+    letter-spacing: 5px;
+}
+#clock {
+    width: 100%;
+    position: absolute;
+    font-size: 9vw;
+    color: white;
+    text-align: center;
+    font-family: 'Robot'
 }
