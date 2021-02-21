@@ -19,8 +19,8 @@ seconds = ("0" + seconds).slice(-2);
 
 //display the clock
 
-document.getElementById('clock').innerHTML = 
+document.getElementById("clock").innerHTML = 
   hours + "  :  " + minutes + "  :  " + seconds + " " + amPm;
   var t = setTimeout(realtimeClock, 500);
-
+  
 }
